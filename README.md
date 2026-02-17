@@ -17,7 +17,7 @@ This repository focuses specifically on **containerization and cloud deployment*
 https://student-management-temp.onrender.com/swagger-ui/index.html
 
 ⚠️ Note: The application is hosted on Render’s free tier.
-If the service has been idle, it may take 2–4 minutes to start on the first request.
+If the service has been idle, it may take 4-5 minutes to start on the first request.
 
 ## 🌍 Live API URL
 https://student-management-temp.onrender.com
